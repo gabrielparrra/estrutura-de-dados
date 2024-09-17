@@ -1,8 +1,8 @@
-## Exercícios da disciplina de Estrutura de Dados
+# Exercícios da disciplina de Estrutura de Dados
 
 Bem-vindo ao repositório de exercícios da disciplina Estrutura de Dados! Aqui, você encontrará minhas soluções para diversos problemas e desafios abordados ao longo da matéria. O objetivo deste repositório é documentar meu aprendizado e compartilhar minhas implementações para fins de estudo e colaboração.
 
-# 📚 Conteúdo
+## 📚 Conteúdo
 Este repositório está organizado de acordo com os tópicos principais da disciplina de Estrutura de Dados. Cada tópico contém um diretório específico com os exercícios relacionados, suas descrições e minhas soluções.
 
 Estrutura do Repositório:
@@ -13,6 +13,9 @@ Estrutura do Repositório:
 05-grafos/: Implementações básicas sobre grafos e seus algoritmos.
 06-busca-e-ordenacao/: Algoritmos de busca e ordenação implementados.
 
-# 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 Linguagem de Programação: Linguagem usada para a implementação dos algoritmos (ex: Python, C, Java)
-Ferramentas: IDEs e compiladores que utilizei durante o desenvolvimento.
+Ferramentas: VS Code
+
+## 📝 Contribuições
+Este é um projeto em constante desenvolvimento, portanto, sugestões e melhorias são sempre bem-vindas. Sinta-se à vontade para abrir issues ou enviar pull requests!
