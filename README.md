@@ -14,7 +14,7 @@ Estrutura do Repositório:
 06-busca-e-ordenacao/: Algoritmos de busca e ordenação implementados.
 
 ## 🚀 Tecnologias Utilizadas
-Linguagem de Programação: Linguagem usada para a implementação dos algoritmos (ex: Python, C, Java)
+Linguagem de Programação: Java
 Ferramentas: VS Code
 
 ## 📝 Contribuições
